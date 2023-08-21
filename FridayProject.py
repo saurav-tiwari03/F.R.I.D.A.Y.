@@ -1,6 +1,3 @@
-#Female Replacement Intelligent Digital Assistant Youth - FRIDAY
-#fac108dabb984594a55bb5d0539b1059
-#COntributed by Navodit
 import pyttsx3 
 import datetime
 import speech_recognition as sr
